@@ -66,14 +66,16 @@ linked from the [v1.0.0 release](https://github.com/Uniswap/uniswap-interface/re
 
 ---
 
-
+```
 https://github.com/MetaMask/metamask-extension/issues/10122
 router.sol
 Replace it in Line # 24 for uniswap-v2-periphery/contracts/libraries/UniswapV2Library.sol. //更换init_code_hash ， 新部署的factory合约生成init_code_hash
 Replace it in INIT_CODE_HASH for uniswap-sdk/src/constants.ts.
+```
 
----
 
+``` 
 前端的一些改动
 https://mirror.xyz/0xb71070FC0908D1c147F751D10a6481E36b7A42CC/yztb_GwBikMreAgVX3yP0Y09dgXFkPsX0QhRgjrJ0Bw
 https://medium.com/darwinianetwork/build-on-darwinia-2-4-deploying-uniswap-v2-to-crab-pangolin-network-ii-3798e6c43951
+```
